@@ -1,1 +1,1 @@
-# Axe-Game
+# Mini-Games
