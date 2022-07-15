@@ -1,10 +1,13 @@
 make.exe --dry-run --always-make --keep-going --print-directory
-make: Entering directory 'd:/Alireza/ClionProjects/Raylib_Games'
+make: Entering directory 'd:/Alireza/ClionProjects/Axe-Game'
 mingw32-make game
-make[1]: Entering directory 'd:/Alireza/ClionProjects/Raylib_Games'
-make[1]: Leaving directory 'd:/Alireza/ClionProjects/Raylib_Games'
-make: Leaving directory 'd:/Alireza/ClionProjects/Raylib_Games'
+ 
+make[1]: Entering directory 'd:/Alireza/ClionProjects/Axe-Game'
+make[1]: Leaving directory 'd:/Alireza/ClionProjects/Axe-Game'
  
 make[1]: *** No rule to make target 'main.c', needed by 'game'.
+
 make: *** [Makefile:388: all] Error 2
 
+make: Leaving directory 'd:/Alireza/ClionProjects/Axe-Game'
+ 
